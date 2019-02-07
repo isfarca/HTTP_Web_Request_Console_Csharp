@@ -1,0 +1,7 @@
+C:\Users\f.isfarca\Desktop\HTTP_Web_Request\HTTP_Web_Request\bin\Debug\HTTP_Web_Request.exe.config
+C:\Users\f.isfarca\Desktop\HTTP_Web_Request\HTTP_Web_Request\bin\Debug\HTTP_Web_Request.exe
+C:\Users\f.isfarca\Desktop\HTTP_Web_Request\HTTP_Web_Request\bin\Debug\HTTP_Web_Request.pdb
+C:\Users\f.isfarca\Desktop\HTTP_Web_Request\HTTP_Web_Request\obj\Debug\HTTP_Web_Request.csprojResolveAssemblyReference.cache
+C:\Users\f.isfarca\Desktop\HTTP_Web_Request\HTTP_Web_Request\obj\Debug\HTTP_Web_Request.csproj.CoreCompileInputs.cache
+C:\Users\f.isfarca\Desktop\HTTP_Web_Request\HTTP_Web_Request\obj\Debug\HTTP_Web_Request.exe
+C:\Users\f.isfarca\Desktop\HTTP_Web_Request\HTTP_Web_Request\obj\Debug\HTTP_Web_Request.pdb
